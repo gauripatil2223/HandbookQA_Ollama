@@ -1,0 +1,15 @@
+[project]
+name = "handbookqa"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=1.2.2",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.6",
+    "numpy>=2.4.0",
+    "ollama>=0.6.1",
+    "pymupdf>=1.26.7",
+    "pypdf>=6.5.0",
+]

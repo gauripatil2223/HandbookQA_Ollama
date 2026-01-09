@@ -1,0 +1,100 @@
+[
+  {
+    "id": "section_1",
+    "text": "The company employs full-time, part-time, and contract workers. Only full-time employees are eligible for benefits unless stated otherwise.",
+    "metadata": {
+      "section": "Employment Categories"
+    }
+  },
+  {
+    "id": "section_2",
+    "text": "Standard working hours are from 9:30 AM to 6:30 PM, Monday to Friday. Employees are expected to be available during core collaboration hours from 11:00 AM to 4:00 PM.",
+    "metadata": {
+      "section": "Working Hours"
+    }
+  },
+  {
+    "id": "section_3",
+    "text": "Employees are expected to log attendance daily using the company attendance system. Repeated late arrivals may result in disciplinary action.",
+    "metadata": {
+      "section": "Attendance and Punctuality"
+    }
+  },
+  {
+    "id": "section_4",
+    "text": "Employees may work remotely up to two days per week with manager approval. Requests for additional remote days must be reviewed quarterly. Permanent remote work is not guaranteed and depends on role, performance, and business needs.",
+    "metadata": {
+      "section": "Remote Work Policy"
+    }
+  },
+  {
+    "id": "section_5",
+    "text": "Full-time employees are entitled to 20 days of paid annual leave per calendar year. Annual leave must be approved by the reporting manager. Unused leave cannot be carried forward unless explicitly approved by HR.",
+    "metadata": {
+      "section": "Annual Leave Policy"
+    }
+  },
+  {
+    "id": "section_6",
+    "text": "Employees are entitled to 10 days of paid sick leave per year. Sick leave exceeding two consecutive working days requires a medical certificate.",
+    "metadata": {
+      "section": "Sick Leave"
+    }
+  },
+  {
+    "id": "section_7",
+    "text": "Employees may take up to 5 days of casual leave annually. Casual leave cannot be combined with annual leave.",
+    "metadata": {
+      "section": "Casual Leave"
+    }
+  },
+  {
+    "id": "section_8",
+    "text": "The company observes national public holidays as announced by the government. A holiday calendar is published at the beginning of each year.",
+    "metadata": {
+      "section": "Public Holidays"
+    }
+  },
+  {
+    "id": "section_9",
+    "text": "Employee performance is reviewed annually. Exceptional performance may result in bonuses or promotions, subject to company discretion.",
+    "metadata": {
+      "section": "Performance Reviews"
+    }
+  },
+  {
+    "id": "section_10",
+    "text": "Employees must maintain professional conduct at all times. Harassment, discrimination, retaliation, and unethical behavior are strictly prohibited.",
+    "metadata": {
+      "section": "Code of Conduct"
+    }
+  },
+  {
+    "id": "section_11",
+    "text": "Violations of company policy may lead to warnings, suspension, or termination depending on severity.",
+    "metadata": {
+      "section": "Disciplinary Action"
+    }
+  },
+  {
+    "id": "section_12",
+    "text": "Either party may terminate employment with 30 days written notice. The company may terminate employment immediately in cases of gross misconduct, including fraud or harassment.",
+    "metadata": {
+      "section": "Termination Policy"
+    }
+  },
+  {
+    "id": "section_13",
+    "text": "Employees must not share confidential company information with unauthorized individuals. All company devices must comply with security policies.",
+    "metadata": {
+      "section": "Data Security"
+    }
+  },
+  {
+    "id": "section_14",
+    "text": "Employees must disclose any potential conflicts of interest to HR. Failure to disclose conflicts may result in disciplinary action.",
+    "metadata": {
+      "section": "Conflict of Interest"
+    }
+  }
+]
